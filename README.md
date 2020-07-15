@@ -1,4 +1,11 @@
-### Hi there 👋
+![Lucit Logo](https://lucit.cc/wp-content/uploads/2019/10/YouTube-CoverArt-Black-1024x576.png)
+
+I am the CTO and Co-Founder of Lucit, specializing in big-ticket inventory marketing software.
+
+Our flagship application is Lucit Layout
+
+
+
 
 <!--
 **ericlucit/ericlucit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
