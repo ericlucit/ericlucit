@@ -35,10 +35,12 @@ Our front-end app **Layout** is the app the end-clients use to control their inv
 #### Back End
 The back end of the sytem is powered by
 - Digital Ocean
+- Amazon S3, SES, SNS
 - PHP
 - Laravel
 - Centos 8
 - Docker
+- Elasticsearch
 - MySql 8 Cluster
 
 #### DeVops
@@ -48,9 +50,11 @@ Our devops environment utilizes the following applications
 - Docker
 - PHPUnit
 - eslint
+- Postman
 - Ionic Capacitor
 - Android Studio
 - XCode
+
 
 
 
