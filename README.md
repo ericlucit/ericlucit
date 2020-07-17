@@ -1,6 +1,6 @@
 ![Lucit Logo](https://lucit.cc/wp-content/uploads/2019/10/YouTube-CoverArt-Black-1024x576.png)
 
-I am the CTO and Co-Founder of Lucit, specializing in big-ticket inventory marketing software.
+I am the CTO and co-founder of Lucit, specializing in big-ticket inventory marketing software with a focus on digital billboards.
 
 ## Lucit Layout
 
