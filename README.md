@@ -46,9 +46,9 @@ The back end of the sytem is powered by
 #### DeVops
 Our devops environment utilizes the following applications
 - Phabricator
--- Custom Arcanist Plugins
---- https://github.com/lucit-cc/LcPHPMDLinter
---- https://github.com/lucit-cc/PhpunitJunitTestEngine
+ - **Custom Arcanist Plugins**
+ - https://github.com/lucit-cc/LcPHPMDLinter
+ - https://github.com/lucit-cc/PhpunitJunitTestEngine
 - Jenkins
 - Docker
 - PHPUnit
