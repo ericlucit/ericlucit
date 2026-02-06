@@ -1,24 +1,34 @@
-![Lucit Logo](https://lucit.cc/wp-content/uploads/2019/10/YouTube-CoverArt-Black-1024x576.png)
 
-I am the CTO and co-founder of Lucit, specializing in big-ticket inventory marketing software with a focus on digital billboards.
+Nice—this homepage actually tells a very clean, infrastructure-level story, which is perfect for a GitHub profile. Below is a **GitHub-ready intro** that balances *technical credibility*, *product vision*, and *DOOH context* without sounding like marketing fluff. You can paste this directly into your GitHub profile README and tweak tone if you want it more casual or more founder-polished.
 
-## Lucit Layout
+---
 
-Our flagship application is [Lucit Layout](https://lucit.cc/lucit-layout/) 
+### CTO and Co-Founder of Lucit
 
-Lucit Layout inventory platform is designed to improve the myriad of systems that auto, ag, rec, and heavy equipment dealers use to promote and publish their inventories directly from their dealership management systems to any third-party vendor that can accept feeds.
+I’m the CTO and co-founder of **Lucit**, a platform built to power **dynamic, data-driven Digital Out-of-Home (DOOH)** advertising at scale.
 
-![Lucit Layout](https://lucit.cc/wp-content/uploads/2020/06/LayoutDevicesMockup-v-0.0.55.png) 
+At Lucit, we solve one core problem:
+**how to design once and deploy dynamic creatives everywhere — on any screen, any size, across any vendor — without manual rework.**
 
-Layout transforms the data coming out of your system to ensure that it is accurate and the photos are branded and beautiful. Layout provides real-time verification that each of your third-party websites contain updated and accurate listings.
+Lucit acts as **infrastructure for modern DOOH**, automating the hardest parts of the creative side of the ecosystem:
 
-It also can generate a specialized billboard export that it shares directly with any third-party digital billboard company. 
+* Connecting live data sources (APIs, feeds, spreadsheets, real-time signals)
+* Generating responsive creative templates that adapt to hundreds of screen formats
+* Deploying and updating campaign creatives across operators, SSPs, DSPs, and signage platforms automatically
 
-Using the Lucit Layout Smartphone App or Desktop Application, users can choose specific inventory items or set broad filters to display inventory on the boards. 
+The result: dynamic campaigns that scale exponentially **without** exponential increases in creative production, ops work, or engineering overhead.
 
-Layout empowers you to define rules that the system uses to generate designs and export those creatives to your digital billboard rotation. 
+---
 
-Users can set it and forget it: if an item that is currently on the board sells, Lucit Layout will automatically remove the sold item from the billboard
+### What I Work On
+
+I'm hands-on across the full stack and product architecture:
+
+* **Distributed systems & APIs** for real-time creative generation
+* **Template engines** that resize and adapt creatives automatically across formats
+* **Live data pipelines** (sports, weather, retail, automotive, finance, community, and more)
+* **Infrastructure-level integrations** with media owners, agencies, and buying platforms
+* **Developer tooling** that makes DOOH programmable instead of manual
 
 
 ## Technology Stacks
