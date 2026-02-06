@@ -12,7 +12,7 @@ Lucit acts as **infrastructure for modern DOOH**, automating the hardest parts o
 * Generating responsive creative templates that adapt to hundreds of screen formats
 * Deploying and updating campaign creatives across operators, SSPs, DSPs, and signage platforms automatically
 
-The result: dynamic campaigns that scale exponentially **without** exponential increases in creative production, ops work, or engineering overhead.
+Dynamic campaigns that scale exponentially **without** exponential increases in creative production, ops work, or engineering overhead.
 
 ---
 
