@@ -1,8 +1,4 @@
 
-Nice—this homepage actually tells a very clean, infrastructure-level story, which is perfect for a GitHub profile. Below is a **GitHub-ready intro** that balances *technical credibility*, *product vision*, and *DOOH context* without sounding like marketing fluff. You can paste this directly into your GitHub profile README and tweak tone if you want it more casual or more founder-polished.
-
----
-
 ### CTO and Co-Founder of Lucit
 
 I’m the CTO and co-founder of **Lucit**, a platform built to power **dynamic, data-driven Digital Out-of-Home (DOOH)** advertising at scale.
